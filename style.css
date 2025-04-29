@@ -8,6 +8,7 @@
     --white-color: #fafaff;
     --dark-color: #2a3b47;
     --text-color: #697477;
+    --nav-color: #00796b;
 
     --body-font: 'Montserrat', sans-serif;
     --big-font-size: 6.25rem;
@@ -89,7 +90,7 @@ img { max-width: 100%; height: auto; display: block; }
     top: 0;
     left: 0;
     z-index: var(--z-fixed);
-    background-color: var(--first-color);
+    background-color: var(--nav-color);
 }
 
 
