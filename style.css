@@ -9,6 +9,7 @@
     --dark-color: #2a3b47;
     --text-color: #697477;
     --nav-color: #00796b;
+    --header-color: #00796b;
 
     --body-font: 'Montserrat', sans-serif;
     --big-font-size: 6.25rem;
@@ -105,7 +106,7 @@ img { max-width: 100%; height: auto; display: block; }
 .nav-item { margin-bottom: var(--mb4); }
 .nav-link { position: relative; color: var(--dark-color); }
     .nav-link:hover { color: var(--first-color); }
-.nav-logo { color: var(--white-color); }
+.nav-logo { color: var(--header-color); }
 .nav-toggle { color: var(--white-color); font-size: 1.5rem; cursor: pointer; }
 
 .active::after {
