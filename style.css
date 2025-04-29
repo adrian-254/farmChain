@@ -200,7 +200,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 /*PORTFOLIO*/
 
-.portfolio { background-color: var(--white-color); }
+.portfolio { background-color: var(--first-color); }
 .portfolio-container { justify-items: center; row-gap: 2rem; }
 .portfolio-img { position: relative; overflow: hidden; }
     .portfolio-img img { border-radius: .5rem; }
