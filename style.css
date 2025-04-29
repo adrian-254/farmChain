@@ -90,7 +90,7 @@ img { max-width: 100%; height: auto; display: block; }
     top: 0;
     left: 0;
     z-index: var(--z-fixed);
-    background-color: var(--nav-color);
+    background-color: var(--first-color);
 }
 
 
