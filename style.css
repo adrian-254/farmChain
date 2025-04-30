@@ -12,6 +12,7 @@
     --header-color: #00796b;
     --softgold-color:#d4af37;
     --resene-color: #dcd9cd;
+    --matte-color: #28282b;
 
     --body-font: 'Montserrat', sans-serif;
     --big-font-size: 6.25rem;
@@ -44,7 +45,7 @@ body {
     font-family: var(--body-font);
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
-    color: var(--resene-color);
+    color: var(--matte-color);
     line-height: 1.6;
 }
 
