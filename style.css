@@ -144,7 +144,7 @@ img { max-width: 100%; height: auto; display: block; }
 .home-title { 
     align-self: flex-end; 
     font-size: var(--big-font-size); 
-    color: var(--header-color);
+    color: var(--resene-color);
     line-height: 0.8;
 }
     .home-title span { text-shadow: 0 20px 25px rgba(0, 0, 0, .5); }
